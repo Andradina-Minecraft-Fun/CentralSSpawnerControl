@@ -1,0 +1,15 @@
+name: CentralSSpawnerControl
+main: br.com.centralandradina.centralsspawnercontrol.main
+version: 0.1
+api-version: 1.13
+
+commands:
+  csspawnercontrol:
+    description: 
+    usage: 
+    permission: central.spawnercontrol
+    
+permissions:
+  central.spawnercontrol:
+    description: Allows central spawner control players command
+    default: op
